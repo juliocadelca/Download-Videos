@@ -23,14 +23,18 @@ Aplicação desktop para download de vídeos do YouTube e TikTok com interface g
 1. Clone ou baixe o projeto:
 
 ```bash
-cd "Download Vídeos"
+git clone https://github.com/juliocadelca/Download-Videos.git
+
+cd "Download-Videos"
 ```
 
 2. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
+
 ```
+Ou você poder usar UV
 
 ## Uso
 
